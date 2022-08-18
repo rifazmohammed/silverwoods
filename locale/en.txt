@@ -1,0 +1,87 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Wayanad Silverwoods Resorts
+
+## Skin
+
+### Tooltip
+IconButton_069AFCF9_1C9E_98F8_41AA_EDF2EF9939E8.toolTip = Show all buttons
+IconButton_11F8C692_1C82_6B0B_41B2_28931AB2B43D.toolTip = Previous panorama
+IconButton_128B7B91_1C86_7909_41B8_9320D8E0D421.toolTip = Next panorama
+IconButton_128BCB90_1C86_7907_41B3_46B5B135C181.toolTip = Hide all buttons
+IconButton_1297FF98_1C82_9907_41AD_A09E1EA44354.toolTip = Panorama List
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_3BD6FE66_1C9E_9B08_41AE_65363919CAD0.toolTip = Previous panorama
+IconButton_3BF02F26_1C9E_990B_419B_60D4788D76C9.toolTip = Next panorama
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1.toolTip = Photo Album
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1_mobile.toolTip = Photo Album
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_B9D59FB7_A1A4_BC42_41D3_6404AD139E14.label = SilverWoods
+album_B9D59FB7_A1A4_BC42_41D3_6404AD139E14_0.label = IMG-20210316-WA0047
+album_B9D59FB7_A1A4_BC42_41D3_6404AD139E14_1.label = IMG-20210120-WA0000
+album_B9D59FB7_A1A4_BC42_41D3_6404AD139E14_10.label = IMG-20210120-WA0009
+album_B9D59FB7_A1A4_BC42_41D3_6404AD139E14_11.label = IMG-20210120-WA0010
+album_B9D59FB7_A1A4_BC42_41D3_6404AD139E14_12.label = IMG-20210120-WA0011
+album_B9D59FB7_A1A4_BC42_41D3_6404AD139E14_13.label = IMG-20210316-WA0021
+album_B9D59FB7_A1A4_BC42_41D3_6404AD139E14_2.label = IMG-20210120-WA0001
+album_B9D59FB7_A1A4_BC42_41D3_6404AD139E14_4.label = IMG-20210120-WA0003
+album_B9D59FB7_A1A4_BC42_41D3_6404AD139E14_5.label = IMG-20210120-WA0004
+album_B9D59FB7_A1A4_BC42_41D3_6404AD139E14_7.label = IMG-20210120-WA0006
+album_B9D59FB7_A1A4_BC42_41D3_6404AD139E14_8.label = IMG-20210120-WA0007
+album_B9D59FB7_A1A4_BC42_41D3_6404AD139E14_9.label = IMG-20210120-WA0008
+panorama_AAF07A4B_A0AC_C4C2_41C5_C98BCEC79274.label = Entrance
+panorama_AAF35839_A0AC_C44E_41D5_A01D752688D4.label = Reception and Lobby
+panorama_AAF37591_A0AC_CC5E_41C7_9A365585BE31.label = Reception Area
+panorama_AAFC70A0_A0A3_447E_41E2_78B8FE46C543.label = Balcony with Jacuzzi - Sky Romantic Villa
+panorama_AAFC959C_A0A3_CC46_41B0_9EDD9FDC7AC5.label = Club House
+panorama_AAFC9789_A0A3_CC4E_41E1_AE60FF1FCD52.label = Restaurant
+panorama_AAFC9D08_A0A3_5C4E_41CD_8AB1579F0967.label = Restaurant
+panorama_AAFCB12A_A0A3_4442_41CB_CA5FA64C65C0.label = Viewpoint from Reception
+panorama_AAFCB2B5_A0A3_4446_41D2_1D9CBAA84A47.label = Viewpoint from Reception
+panorama_AAFCCA0F_A0A3_4442_41D6_FA8E639FA4D6.label = Restaurant
+panorama_AAFCFF4D_A0A3_7CC6_41C5_87D34DF028DA.label = Restaurant
+panorama_AAFD44C0_A0A3_CC3E_41E0_A09ED8143C55.label = Swimming Pool
+panorama_AAFD62E5_A0A3_C5C6_41E2_0FCCDE6C51A2.label = Convention Centre
+panorama_AAFD9045_A0A4_C4C6_41E0_7D2AB5C32088.label = Balcony - Romantic Villa
+panorama_AAFD932E_A0A4_C442_41DE_79B8CE450F94.label = Romantic Villa
+panorama_AAFD95CF_A0A3_4FC2_41D2_12C3EAAC3330.label = Colosseum
+panorama_AAFDA584_A0A4_CC46_41BE_88D4CEB4D175.label = Colosseum
+panorama_AAFDAE5D_A0A3_5CC6_41B5_50FD67F0117B.label = Sky Romantic Villa
+panorama_AAFDBDFE_A0A4_DFC2_41D2_E315307F6F29.label = Washroom - Romantic Villa
+panorama_AAFDC8CB_A0A3_45C2_41C5_6D3271DC9128.label = Washroom - Sky Romantic Villa
+panorama_ABE42BAA_A0AC_C442_41D9_ACC8B8465064.label = Porch
+panorama_B575A983_A0A5_4442_41DB_AAA43E53F351.label = Dressing Area - Sky Romantic Villa
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_B03BDF19_A0A7_DC4E_41E0_8FD5634B2A91.toolTip = Convention Centre
+HotspotPanoramaOverlayArea_B09CCF73_A0AD_5CC2_41E3_0EEB74B70405.toolTip = Swimming Pool
+HotspotPanoramaOverlayArea_B0D21441_A0AD_CC3E_41CB_61798F281CCB.toolTip = Restaurant
+HotspotPanoramaOverlayArea_B0F2BB05_A0AF_4446_41D7_0DC3E0D449A5.toolTip = Reception Area
+HotspotPanoramaOverlayArea_B12FE78C_A09D_CC46_41D5_AE2D21465BDB.toolTip = Club House
+HotspotPanoramaOverlayArea_B268D83B_A0A5_C442_41E0_8F81A281FEC2.toolTip = Restaurant
+HotspotPanoramaOverlayArea_B2ACC903_A0AD_C442_41BE_C56A2CC982BF.toolTip = Sky Romantic Villa
+HotspotPanoramaOverlayArea_B3EDB3C3_A0AF_4BC2_41D7_F27AF72AF446.toolTip = Pool Area
+HotspotPanoramaOverlayArea_B4226769_A0AF_4CCE_41DD_2DD12CFC33E2.toolTip = Pool Area
+HotspotPanoramaOverlayArea_B43D1F8B_A0E4_FC42_41E3_7BBA302B9075.toolTip = Resataurant
+HotspotPanoramaOverlayArea_B47FC036_A0A5_4443_41BA_BA4A6487EC3D.toolTip = Pool Area
+HotspotPanoramaOverlayArea_B4BDDB9D_A0AD_4446_41B8_1E85970F38DA.toolTip = Romantic Villa
+HotspotPanoramaOverlayArea_B4FFEA0D_A0A7_4446_41DB_7DD3119AF196.toolTip = Colosseum
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = https://www.wayanadsilverwoods.com
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = https://www.wayanadsilverwoods.com
